@@ -10,3 +10,4 @@ Let's talk!
 # Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/leonlonsdale.dev) 
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=leonlonsdale&theme=highcontrast)](https://git.io/streak-stats)
