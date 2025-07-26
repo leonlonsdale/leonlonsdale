@@ -11,6 +11,7 @@ Feel free to reach out—I'd love to connect!
 # Tech
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,lua,go)](https://skillicons.dev)
 
 
