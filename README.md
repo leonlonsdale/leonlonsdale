@@ -10,11 +10,8 @@ Feel free to reach out—I'd love to connect!
 
 # Tech
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs,js,ts,py,lua,go,mongodb,postgres,prisma,express)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,lua,go)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma,express)](https://skillicons.dev)
 
 # Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/leonlonsdale.dev) 
