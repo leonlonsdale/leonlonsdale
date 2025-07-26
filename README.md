@@ -1,10 +1,12 @@
 # Hey 👋
 
-I've been enjoying web development using React and Next js for quite some time. Typescript revolutionised my thinking when writing code. It was the first time I had seen, or even heard of Types - I don't have a Computing based degree, my degree is in International Business Management and Chinese. From that point I've only wanted to write with types, whether TS or Py. Then I used Go and fell in love with it. The standard library is great and I really like and enjoy writing the syntax.
+I'm a web developer with a strong interest in backend development. My journey began with React and Next.js, and I quickly discovered the power of TypeScript—my first real exposure to static typing. Coming from a non-traditional background (International Business Management & Chinese), this discovery was a turning point that reshaped how I think about code.
 
-I'm on the lookout for a role in backend development, prefarrably using Go, but I would be open to Python and Node too, or if you're rolling out Bun JS, I'd be interested in getting to know that, too!
+Since then, I've gravitated toward typed languages like TypeScript, Python, and especially Go. Go's simplicity, powerful standard library, and expressive syntax make it a joy to work with.
 
-Let's talk!
+I'm currently seeking opportunities in backend development—ideally using Go—but I'm also open to Python, Node.js, or even exploring Bun if you're using that.
+
+Feel free to reach out—I'd love to connect!
 
 
 # Socials:
