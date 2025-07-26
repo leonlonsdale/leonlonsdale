@@ -8,6 +8,10 @@ I'm currently seeking opportunities in backend development—ideally using Go—
 
 Feel free to reach out—I'd love to connect!
 
+# Tech
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,react,nextjs)](https://skillicons.dev)
+
 
 # Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/leonlonsdale.dev) 
