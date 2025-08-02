@@ -16,4 +16,4 @@ Feel free to reach out—I'd love to connect!
 # Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/leonlonsdale.dev) 
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=leonlonsdale&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=leonlonsdale&theme=aura&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
