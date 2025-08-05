@@ -18,6 +18,4 @@ Feel free to reach out—I'd love to connect!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=leonlonsdale&theme=aura&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonlonsdale&theme=aura&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonlonsdale&theme=aura&size_weight=0.5&count_weight=0.5)
