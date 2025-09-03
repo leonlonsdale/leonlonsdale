@@ -1,6 +1,6 @@
 # Hey 👋
 
-I'm a web developer with a strong interest in backend development. My journey began with React and Next.js, and I quickly discovered the power of TypeScript—my first real exposure to static typing. Coming from a non-traditional background (International Business Management & Chinese), this discovery was a turning point that reshaped how I think about code.
+I'm a developer with a strong interest in backend development. My journey began with React and Next.js, and I quickly discovered the power of TypeScript—my first real exposure to static typing. Coming from a non-traditional background (International Business Management & Chinese), this discovery was a turning point that reshaped how I think about code.
 
 Since then, I've gravitated toward typed languages like TypeScript, Python (I know! it's not typed! but I enforce typing through LSP), and especially Go. Go's simplicity, powerful standard library, and expressive syntax make it a joy to work with.
 
