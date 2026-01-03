@@ -6,7 +6,7 @@ const leon = {
   company : "sensee",
   location : "wirral, uk",
   languages : { "typescript", "javascript", "golang", "python", "sql", },
-  editor : "neovim",
+  editor : "helix",
   site : "https://leonlonsdale.dev",
   bluesky : "https://bsky.app/profile/leonlonsdale.dev",
 }
