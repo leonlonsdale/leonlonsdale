@@ -5,7 +5,7 @@ const leon = {
   role : "compliance officer",
   company : "sensee",
   location : "wirral, uk",
-  languages : [ "typescript", "javascript", "golang", "python", "sql", ],
+  languages : [ "typescript", "javascript", "golang", "python", "sql" ],
   os : "cachyos",
   editor : "helix",
   site : "https://leonlonsdale.dev",
