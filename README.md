@@ -3,10 +3,10 @@
 
 const leon = {
   role : "compliance officer",
-  company : "sensee",
+  company : "confidential",
   location : "wirral, uk",
   languages : [ "typescript", "javascript", "golang", "python", "sql" ],
-  os : "cachyos",
+  os : ["cachyos", "nixos"], //btw
   editor : "helix",
   site : "https://leonlonsdale.dev",
   bluesky : "https://bsky.app/profile/leonlonsdale.dev",
